@@ -38,7 +38,6 @@ li:before {
 blockquote {
   font-family: 'PT Mono', sans-serif;
   color: #3c7a6e;
-  font-weight: 100;
   letter-spacing: -1px;
 }
 blockquote:before {
@@ -326,9 +325,10 @@ blockquote:before {
   background: #000;
 }
 blockquote {
-  font-size: 20px;
+  font-size: 27px;
   line-height: 1.4;
   color: #efefef;
+  font-family: 'Actay Wide', sans-serif;
 }
 figcaption {
   opacity: 0.5;
